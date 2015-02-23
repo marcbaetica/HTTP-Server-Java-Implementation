@@ -1,0 +1,3 @@
+This first implementation is a client-server configuration using HTTP v1.0 defined in RFC1945 where separate HTTP requests are sent for each component of the Web page. Because of the multi-threaded nature of its implementation, the server will be able to handle multiple simultaneous service requests. Standard port used is 6789.
+
+Project is built in Eclipse and includes a simple webpage with basic elements and an HTML5 video.
